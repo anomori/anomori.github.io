@@ -1,0 +1,17 @@
+/*body {background-color:aqua; margin:20px}*/
+body{background:rgb(245,233,220);
+	  margin:30px;
+	  padding:10px 100px 0px 100px;
+/*	  text-decoration:underline ;  /*線を引く */*/
+	}
+
+h1	{background-color:rgb(255,200,200);
+	color:black;
+	padding:7px;
+	}
+
+.center {text-align:center}
+
+#honbun {background:rgb(255,249,241);
+		padding:0.1em 10px;
+		}
